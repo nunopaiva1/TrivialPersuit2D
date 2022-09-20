@@ -1,0 +1,17 @@
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Release\TrivialPursuit.Form1.resources
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Release\TrivialPursuit.Properties.Resources.resources
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Release\TrivialPursuit.csproj.GenerateResource.Cache
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\bin\Release\TrivialPursuit.exe
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\bin\Release\TrivialPursuit.pdb
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Release\TrivialPursuit.exe
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Release\TrivialPursuit.pdb
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\bin\Release\TrivialPursuit.exe
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\bin\Release\TrivialPursuit.pdb
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.Form1.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.LogIn.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.Menu.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.Pergunta_form.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.Properties.Resources.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.csproj.GenerateResource.Cache
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.exe
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Release\TrivialPursuit.pdb

@@ -1,0 +1,41 @@
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\bin\Debug\TrivialPursuit.exe
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\bin\Debug\TrivialPursuit.pdb
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Form1.resources
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Properties.Resources.resources
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Debug\TrivialPursuit.csproj.GenerateResource.Cache
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Debug\TrivialPursuit.exe
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Debug\TrivialPursuit.pdb
+C:\Users\ASUS1\AppData\Local\Temporary Projects\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Menu.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.exe
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.pdb
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Form1.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Menu.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Properties.Resources.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.csproj.GenerateResource.Cache
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\bin\Debug\TrivialPursuit.exe
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\bin\Debug\TrivialPursuit.pdb
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.csprojResolveAssemblyReference.cache
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Pergunta_form.resources
+C:\Users\ASUS1\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.LogIn.resources
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.exe
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.pdb
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\bin\Debug\TrivialPursuit.exe
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\bin\Debug\TrivialPursuit.pdb
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.csprojResolveAssemblyReference.cache
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Form1.resources
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.LogIn.resources
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Menu.resources
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Pergunta_form.resources
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Escolinha\Proj 2D\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.csproj.GenerateResource.Cache
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.exe
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.pdb
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\bin\Debug\TrivialPursuit.exe
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\bin\Debug\TrivialPursuit.pdb
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Form1.resources
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.LogIn.resources
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Menu.resources
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Pergunta_form.resources
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.Properties.Resources.resources
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\TrivialPursuit\TrivialPursuit\TrivialPursuit\obj\x86\Debug\TrivialPursuit.csproj.GenerateResource.Cache
